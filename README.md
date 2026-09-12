@@ -20,7 +20,6 @@ Installed and configured the AWS Load Balancer Controller to integrate Kubernete
 
 Configured IAM roles and OIDC provider for secure service account permissions.
 
-🔗 View Project
 
 ☕ Spring Boot Web Application Deployment
 Tech Stack: Java | Spring Boot | Maven | Docker | Kubernetes | Git | GitHub
@@ -31,7 +30,6 @@ Used Maven for application building and dependency management.
 
 Created multi-stage Docker images and practiced Kubernetes-based application deployment.
 
-🔗 View Project
 
 🐹 Golang Application with GitOps & Argo CD
 Tech Stack: Golang | Docker | Kubernetes | Git | Argo CD
@@ -42,7 +40,6 @@ Deployed the application on a Kubernetes cluster.
 
 Implemented CI/CD and GitOps continuous deployment workflows using Argo CD.
 
-🔗 View Project
 
 🐧 Linux Shell Scripting Automation
 Tech Stack: Linux | Bash | Shell Scripting
@@ -52,8 +49,6 @@ Practiced Linux administration and advanced shell scripting techniques.
 Worked with variables, loops, functions, and arrays to automate DevOps tasks.
 
 Created custom automation scripts for routine system maintenance and monitoring.
-
-🔗 View Project
 
 📚 Currently Learning
 Plaintext
